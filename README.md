@@ -34,8 +34,3 @@ python SANFM_DI.py
 
 HINT: The dataset used in this code currently only divides into four domains. The sourse code needs to be modified as appropriate when use new dataset
 
-# Reference 
-
-'''
-To be added after the paper is accepted
-'''
