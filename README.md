@@ -1,7 +1,5 @@
-#SANFM-DI
-
-Source code for paper ['Web API Recommendation based on Self-Attentional Neural Factorization Machines with Domain Interactions']
-
+This repository is the Python implementation for the following paper:
+> Guosheng Kang, Linghang Ding, Jianxun Liu, Buqing Cao, and Yu Xu. Web API Recommendation based on Self-Attentional Neural Factorization Machines with Domain Interactions. IEEE Transactions on Network Science and Engineering, 2023.
 
 ## Environment Settings
 
