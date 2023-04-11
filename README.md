@@ -26,7 +26,7 @@ This repository is the Python implementation for the following paper:
 - input_bert_data.csv: the [dataset](https://pan.baidu.com/s/1WC11FVhe6sxQYzihOiykYA?pwd=kang), which consists of four domains, including the Mashup description document processed by the BERT model, Web API description document processed by the BERT model, Mashup category, and Web API category.
 
 
-## Basic Usage
+## Command to Run
 
 ~~~
 python SANFM_DI.py 
