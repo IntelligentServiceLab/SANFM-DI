@@ -3,12 +3,12 @@ This repository is the Python implementation for the following paper:
 
 ## Environment Settings
 
-*Python == 3.9.13
-*Pandas == 1.4.4
-*Numpy == 1.21.5
-*Pytorch == 1.13.0
-*torchvision == 0.14.0
-*scikit-learn == 1.0.2
+* Python == 3.9.13
+* Pandas == 1.4.4
+* Numpy == 1.21.5
+* Pytorch == 1.13.0
+* torchvision == 0.14.0
+* scikit-learn == 1.0.2
 
 
 ## Parameter Settings
