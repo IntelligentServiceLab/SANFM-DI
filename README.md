@@ -21,9 +21,9 @@ This repository is the Python implementation for the following paper:
 - test_size: the percentage of test dataset
 - endure_count: the threshold for ending training
 
-## Files in the folder
-SANFM_DI.py: training the model and obtaining the test results
-input_bert_data.csv: the dataset, which consists of four domains, including the Mashup description document processed by the BERT model, Web API description document processed by the BERT model, Mashup category, and Web API category.
+## Files
+- SANFM_DI.py: training the model and obtaining the test results
+- input_bert_data.csv: the [dataset](https://pan.baidu.com/s/1WC11FVhe6sxQYzihOiykYA?pwd=kang), which consists of four domains, including the Mashup description document processed by the BERT model, Web API description document processed by the BERT model, Mashup category, and Web API category.
 
 
 ## Basic Usage
