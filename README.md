@@ -32,5 +32,5 @@ This repository is the Python implementation for the following paper:
 python SANFM_DI.py 
 ~~~
 
-HINT: The dataset used in this code currently only divides into four domains. The sourse code needs to be modified as appropriate when use new dataset
+**Note**: The dataset used in this code currently only divides into four domains. The sourse code needs to be modified as appropriate when use new dataset
 
