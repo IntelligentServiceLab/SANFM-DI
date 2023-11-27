@@ -33,4 +33,5 @@ python SANFM_DI.py
 ~~~
 
 **Note**: The dataset used in this code currently only divides into four domains. The sourse code needs to be modified as appropriate when use new dataset.  
+
 **Contact**: linghangding@gmail.com (Linghang Ding)
